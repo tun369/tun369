@@ -45,15 +45,15 @@
         <img src="https://wakatime.com/badge/user/f229e779-047e-4bcc-9fe8-5b9d89b2fd06.svg" alt="Total time coded" align="right"/>
     </a>
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="140" src="https://komarev.com/ghpvc/?username=tun6944&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
+        <img width="140" src="https://komarev.com/ghpvc/?username=tun369&label=Profile+Views&color=red&style=plastic" align="right" alt="Profile Views"/>
     </a>
 </p>
 
 <ul>
-    <li>👋 Welcome to my <em><a href="https://github.com/tun6944?tab=repositories" style="text-decoration: none;">GitHub</a></em> profile.</li>
+    <li>👋 Welcome to my <em><a href="https://github.com/tun369?tab=repositories" style="text-decoration: none;">GitHub</a></em> profile.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Hello,"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" height="20"></a> I'm a <u>final-year</u> student in an <strong><a href="#" style="text-decoration:none; color:red">university</a></strong> in Socialist Republic of <strong><a href="https://wikipedia.org/wiki/Vietnam" style="text-decoration:none; color:red">Vietnam</a></strong>.</li>
     <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Firstly,"><img src="https://cdn.icon-icons.com/icons2/1194/PNG/512/1490886306-20-graduation_82484.png" width="25" height="20"></a> I want to be an <a href="https://www.linkedin.com/in/me"><code>fresher</code></a> to gain more new knowledge and experience.</li>
-    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">6</a> months of programming experience, here's my <strong><a href="https://github.com/tun6944?tab=repositories&q=&type=public&language=&sort=">projects</a></strong>.</li>
+    <li>I have <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">6</a> months of programming experience, here's my <strong><a href="https://github.com/tun369?tab=repositories&q=&type=public&language=&sort=">projects</a></strong>.</li>
 </ul>
 
 <p align="left" style="direction: rtl;" title="Social Networks">
@@ -149,7 +149,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="53" height="53"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/tun6944/tun6944/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="53" height="53"/> 
+        <img src="https://github.com/tun369/tun369/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="53" height="53"/> 
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="53" height="53"/> 
@@ -247,9 +247,9 @@
         <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" alt="Codeforce" width="45" height="50" />
     </a>
 </p>
-<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun6944&theme=algolia&row=2&column=4" alt="Trophy" />
+<img style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=tun369&theme=algolia&row=2&column=4" alt="Trophy" />
     <a href="https://github-profile-summary-cards.vercel.app">
-        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun6944&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
+        <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun369&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
     </a>
 -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -257,20 +257,20 @@
 </a>
 <p dir="auto" align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun6944&amp;theme=react-dark" alt="Github activity graph">
+        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun369&amp;theme=react-dark" alt="Github activity graph">
     </a>
-    <a href="https://wakatime.com/@tun6944"><img width="800" height="600" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
+    <a href="https://wakatime.com/@tun369"><img width="800" height="600" src="https://wakatime.com/share/@tun369/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
     <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun6944&theme=algolia" alt="Most Commit Languages">
+        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun369&theme=algolia" alt="Most Commit Languages">
     </a>
     <a href="https://github-profile-summary-cards.vercel.app">
-    <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun6944&theme=algolia" alt="Repositories per Language">
+    <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun369&theme=algolia" alt="Repositories per Language">
     </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tun6944&theme=algolia&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tun369&theme=algolia&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=dark" width="771" height="auto">
-        <img alt="Dashboard stats of @tun6944" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=light" width="771" height="auto">
+        <img alt="Dashboard stats of @tun369" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=light" width="771" height="auto">
       </picture>
     </a>
 </p>
