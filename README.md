@@ -256,17 +256,7 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
 <p dir="auto" align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-        <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun369&amp;theme=react-dark" alt="Github activity graph">
-    </a>
     <a href="https://wakatime.com/@tun6944"><img width="800" height="600" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
-    <a href="https://github-profile-summary-cards.vercel.app">
-        <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun369&theme=algolia" alt="Most Commit Languages">
-    </a>
-    <a href="https://github-profile-summary-cards.vercel.app">
-    <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tun369&theme=algolia" alt="Repositories per Language">
-    </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tun369&theme=algolia&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
     <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=116370663" target="_blank" style="display: block" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116370663&image_size=auto&color_scheme=dark" width="771" height="auto">
