@@ -259,7 +259,7 @@
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
         <img height="260" src="https://github-readme-activity-graph.vercel.app/graph?username=tun369&amp;theme=react-dark" alt="Github activity graph">
     </a>
-    <a href="https://wakatime.com/@tun369"><img width="800" height="600" src="https://wakatime.com/share/@tun369/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
+    <a href="https://wakatime.com/@tun6944"><img width="800" height="600" src="https://wakatime.com/share/@tun6944/6798bd34-ca76-481c-a41b-5cff1a6428b2.svg" /></a>
     <a href="https://github-profile-summary-cards.vercel.app">
         <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tun369&theme=algolia" alt="Most Commit Languages">
     </a>
