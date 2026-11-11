@@ -129,7 +129,6 @@
     <a href="https://www.docker.com/"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="53" height="53"/> 
     </a> 
-    <!--
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="53" height="53"/> 
     </a>
@@ -167,7 +166,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="53" height="53"/> 
     </a> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://media.licdn.com/dms/image/D4D12AQH3WZfJFrpLIQ/article-cover_image-shrink_600_2000/0/1688980095626?e=2147483647&v=beta&t=7TNp0EazorQ7wdXmYIlt-4zOxFA9x1hbIHThcEvPjvw" alt="AWS" width="50" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvRJHGj-wUCP25hKCHwOO74wAqF2eIEQHMYAYAZD9GQ&s" alt="AWS" width="50" height="40"/>
     </a>
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Gcp" width="53" height="53"/> 
@@ -180,9 +179,6 @@
     </a> 
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="53" height="53"/> 
-    </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="53" height="53"/> 
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="53" height="53"/> 
@@ -191,10 +187,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="53" height="53"/> 
     </a> 
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://yt3.googleusercontent.com/4YAaX7CsQ-paadHsNvC6wdv2nE_7VTKpoNJOTwFhHL4rQqLC8WFe6mNxL-z-e6sfHZbHG-ucPA=s900-c-k-c0x00ffffff-no-rj" alt="Unity" width="53" height="53"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQqdVBhWdV0fF2VQsUGpUqDmLwyQuLx_UGcVCigXEMde8ofqrQmY-Hyc&s=10" alt="Unity" width="53" height="53"/> 
     </a>
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://ashesofcreation.wiki/images/thumb/8/83/unreal-engine-logo.png/250px-unreal-engine-logo.png" alt="Unreal Engine" width="53" height="53"/> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpf27o2Pe-8aajQkzusEwG8vCs3aZdKqNwdN9pDH0Vbsym10umUtfzEE&s=10" alt="Unreal Engine" width="53" height="53"/> 
     </a>
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
@@ -205,7 +201,6 @@
     <a href="https://realm.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="Realm" width="53" height="53"/> 
     </a>
-    -->
 </p>
 <!--
 <p align="left" style="direction: rtl;" title="My Profiles">
@@ -251,7 +246,6 @@
     <a href="https://github-profile-summary-cards.vercel.app">
         <img height="190" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tun369&amp;theme=algolia&amp;utcOffset=8" alt="Productive Time">
     </a>
--->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" title="Click on it!">
 </a>
