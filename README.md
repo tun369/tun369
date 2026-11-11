@@ -129,12 +129,6 @@
     <a href="https://www.docker.com/"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="53" height="53"/> 
     </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="53" height="53"/> 
-    </a>
-    <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="53" height="53"/> 
-    </a> 
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="53" height="53"/> 
     </a>
@@ -144,12 +138,22 @@
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="53" height="53"/> 
     </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="53" height="53"/> 
-    </a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/tun369/tun369/assets/116370663/7c8a9126-9178-42ac-b360-762cca11b245" alt="My SQL" width="53" height="53"/> 
     </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="53" height="53"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="53" height="53"/> 
+    </a> 
+    <a href="https://www.w3schools.com/js" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="53" height="53"/> 
+    </a> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQqdVBhWdV0fF2VQsUGpUqDmLwyQuLx_UGcVCigXEMde8ofqrQmY-Hyc&s=10" alt="Unity" width="53" height="53"/> 
+    </a>
+    <!--
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="53" height="53"/> 
     </a> 
@@ -186,9 +190,6 @@
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="53" height="53"/> 
     </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuQqdVBhWdV0fF2VQsUGpUqDmLwyQuLx_UGcVCigXEMde8ofqrQmY-Hyc&s=10" alt="Unity" width="53" height="53"/> 
-    </a>
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpf27o2Pe-8aajQkzusEwG8vCs3aZdKqNwdN9pDH0Vbsym10umUtfzEE&s=10" alt="Unreal Engine" width="53" height="53"/> 
     </a>
@@ -201,6 +202,7 @@
     <a href="https://realm.io/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="Realm" width="53" height="53"/> 
     </a>
+    -->
 </p>
 <!--
 <p align="left" style="direction: rtl;" title="My Profiles">
